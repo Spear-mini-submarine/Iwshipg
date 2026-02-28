@@ -1,0 +1,18 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "cc.deya.iwshipg.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "iwshipg.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+    "flywheel.FlwConfigMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}

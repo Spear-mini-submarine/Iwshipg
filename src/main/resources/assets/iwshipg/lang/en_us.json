@@ -1,0 +1,17 @@
+{
+  "item.iwshipg.test_artillery": "测试炮",
+  "item.iwshipg.handle_artillery": "没良心炮",
+  "item.iwshipg.handle_auto_artillery": "大型火炮",
+  "item.iwshipg.handle_aa_artillery": "四联机炮",
+  "item.iwshipg.handle_gun_artillery": "大狙(霧)",
+  "item.iwshipg.handle_auto_gun_artillery": "自动机炮",
+  "item.iwshipg.handle_rapid_cannon": "单装高平两用炮",
+  "item.iwshipg.handle_rapid_double_cannon": "双联装高平两用炮",
+  "item.iwshipg.handle_rack": "手持挂架",
+  "item.iwshipg.handle_torpedo_tube": "五联鱼雷发射器",
+  "item.iwshipg.engine_boot": "航行脚",
+  "block.iwshipg.homing_cannon_torpedo": "玩家追踪鱼雷(导弹?)",
+  "block.iwshipg.homing_cannon_torpedo.tooltip.torpInfo": "追踪鱼雷",
+  "block.iwshipg.homing_cannon_torpedo.tooltip.torpInfo.main": "这种鱼雷的最大速度为_%s_节，浮力系数为_%s_，最大射程为_%s_m，这种鱼雷的会在发射后_%s_tick开始跟踪附近的玩家，被爆炸波及会受到_%s_tick的反胃与黑暗效果",
+  "item_group.iwshipg.creative_tab": "Cos舰娘"
+}

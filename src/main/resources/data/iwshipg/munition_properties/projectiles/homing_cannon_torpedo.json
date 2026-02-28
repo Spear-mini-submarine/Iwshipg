@@ -1,0 +1,15 @@
+{
+  "entity_damage": 200,
+  "renders_invulnerable": false,
+  "ignores_invulnerability": true,
+  "ignores_entity_armor": true,
+  "torpedo_speed": 0.7,
+  "max_charges": 10,
+  "lifetime": 600,
+  "penetration": 2.5,
+  "toughness": 1,
+  "explosive_power": 3,
+  "base_fuze": false,
+  "added_recoil": 1.0,
+  "buoyancy_factor": 0.14
+}
